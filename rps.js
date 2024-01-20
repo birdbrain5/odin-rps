@@ -40,7 +40,7 @@ function game(){
     let r3 = playRound()
     let r4 = playRound()
     let r5 = playRound()
-    console.log("You won " + (r1+r2+r3+r4+r5) + " out of 5 rounds")
+    console.log("You won " + (r1+r2+r3+r4+r5) + " out of 5 rounds") //this is broken oops
 }
 
 game()
